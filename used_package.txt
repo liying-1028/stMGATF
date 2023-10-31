@@ -1,0 +1,16 @@
+python==3.6.12
+numpy>=1.19.2
+pandas>=1.1.5
+scipy>=1.5.2
+scikit-learn>=0.23.2
+torch>=1.6.0
+tqdm>=4.55.0
+scanpy>=1.6.0
+json==2.0.9
+stlearn
+sklearn
+matplotlib==3.5.2
+glob2
+anndata==0.8.0
+argparse==1.1
+pathlib
