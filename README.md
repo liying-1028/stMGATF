@@ -69,6 +69,7 @@ Take the dataset "DLPFC_151673" as an example
   Cha_h2.m
   TEST_GAG.m
   ```
+  
 - Step 2: EGAT running pipeline:
 
   ```
@@ -91,6 +92,12 @@ Take the dataset "DLPFC_151673" as an example
 
   You can modify parameters in `utils.py`.To reproduce the result, you should use the default parameters.
 
+  Please contact us if you have any questions: liyingliying1028@163.com
+  
+  
+  
+  
+  
   # Citation
 
-Li Y, Lu Y, Kang C, Li P, Chen L. Revealing Tissue Heterogeneity and Spatial Dark Genes from Spatially Resolved Transcriptomics by Multiview Graph Networks. Research 2023;6:Article0228 https://doi.org/10.34133/research.0228
+​		Li Y, Lu Y, Kang C, Li P, Chen L. Revealing Tissue Heterogeneity and Spatial Dark Genes from Spatially Resolved Transcriptomics by Multiview Graph 		Networks. Research 2023;6:Article0228 https://doi.org/10.34133/research.0228
