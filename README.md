@@ -84,7 +84,7 @@ Take the dataset "DLPFC_151673" as an example
 
   # Note: 
 
-  You can find the data in 'stMGATF_test_data.txt'.
+  You can find the data in 'stMGATF_test_data (https://drive.google.com/drive/folders/1V18q6B63MCHP1IfvlZY1sFxiM38tOg2r?usp=drive_link)'.
 
   The folder named 'DLPFC_151673' contains the raw data of slice 151673.
 
